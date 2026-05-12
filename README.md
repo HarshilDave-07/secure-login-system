@@ -2,8 +2,6 @@
 
 A secure Flask-based login and registration system with password hashing, session management, and SQL injection protection.
 
----
-
 ## Features
 - User registration
 - Secure login
@@ -12,7 +10,6 @@ A secure Flask-based login and registration system with password hashing, sessio
 - Logout functionality
 - SQLite database
 
----
 
 ## Technologies Used
 - Python
@@ -20,7 +17,6 @@ A secure Flask-based login and registration system with password hashing, sessio
 - SQLite
 - HTML/CSS
 
----
 
 ## Installation
 
